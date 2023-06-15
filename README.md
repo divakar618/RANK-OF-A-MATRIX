@@ -18,6 +18,9 @@ Step 4:
 Finally, print the value of the rank of the matrix.
 ## Program:
 ```
+developed by: DIVAKAR R
+register number: 212222240026
+
 import numpy as np
 a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 b=np.linalg.matrix_rank(a)
